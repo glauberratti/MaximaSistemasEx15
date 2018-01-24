@@ -1,0 +1,13 @@
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\bin\Debug\Exercicio15.exe.config
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\bin\Debug\Exercicio15.exe
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\bin\Debug\Exercicio15.pdb
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.FrmForcaDeVendas.resources
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.Properties.Resources.resources
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.csproj.GenerateResource.Cache
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.csproj.CoreCompileInputs.cache
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.exe
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.pdb
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.FrmCadFilial.resources
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.FrmCadCliente.resources
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.FrmCadProd.resources
+C:\Users\glaub\source\repos\Exercicio15\Exercicio15\obj\Debug\Exercicio15.csprojResolveAssemblyReference.cache
